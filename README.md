@@ -1,0 +1,1 @@
+#1. 把race_car_info 當成input, 用data_process python file 來導出 result.xml 檔案
